@@ -7,4 +7,4 @@ public class WithoutExceptionHandling {
 		int data=100/0;
 	}
 	
-}
+}   
